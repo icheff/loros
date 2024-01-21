@@ -1,0 +1,61 @@
+<section id="NJhnoxH" data-type="section">
+  <style id="rTWWMMQ" type="text/css">
+    
+  @media screen and (min-width:0px){#lzYttue{width:100vw;height:100vh;position:relative}}
+  @media screen and (min-width:0px){#MMssSjh{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+  @media screen and (min-width:0px){#vFYKPZl{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#hvkylYq{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#LfEUdtl{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#nHWQnJy{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#NBgGsCF{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+  @media screen and (min-width:0px){#ffNbyYA{width:100%;height:100%;display:grid;place-content: center start;}}
+  @media screen and (min-width:0px){#YcVHzny{display:grid;padding:5%;max-width: 1100px;gap:35px;}}
+  @media screen and (min-width:0px){#MeuqfIT{font-size:clamp(4rem,8vw,8rem);line-height:90%;font-weight:900;color:white;}}
+  @media screen and (min-width:0px){#FaYcPkk{font-size:clamp(1rem,2vw,2rem);color:white;}}
+  @media screen and (min-width:0px){#vFeJbPQ{display:flex;gap:10px;}}
+  @media screen and (min-width:0px){#Ounffqb{background:black;padding:20px;color:white;font-size:14px;border-radius:10px;text-underline-position:under;}}
+  @media screen and (min-width:0px){#wgPJcpI{background:white;padding:20px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
+  @media screen and (max-width:640px){#YcVHzny{gap:10px;}}
+  
+  </style>
+  
+  <div id="lzYttue" data-type="container">
+    <div id="tuNwYDu" data-type="backgrounds">
+      
+      <div id="vFYKPZl" data-type="bg-color" class="div-hidden">
+        <div id="hvkylYq" data-type="solid-color" class="div-visible" style="background: rgb(0, 0, 255);"></div>
+        <div id="LfEUdtl" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
+        <div id="nHWQnJy" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgba(255,0,0,0), rgba(255,0,0,1));"></div>
+      </div> <!-- bg-color -->
+
+      <div id="kkZwjjU" data-type="bg-image" class="div-visible">
+        <picture id="oRmXTjB">
+          <source srcset="" media="(max-width:640px)">
+          <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+          <img id="MMssSjh" src="https://images.unsplash.com/photo-1599657473766-b5ebee20a707?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxsb3Jvc3xlbnwwfDB8fHwxNzA1ODU4MDY4fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy">
+        </picture>
+      </div> <!-- bg-image -->
+
+      <div id="XmCkDoC" data-type="bg-video" class="div-hidden">
+        <video id="NBgGsCF" autoplay="" loop="" muted="">
+          <source src="https://previews.customer.envatousercontent.com/0e86408d-ad59-4c94-8e0d-8799ad96d063/watermarked_preview/watermarked_preview.mp4" type="video/mp4">
+        </video>
+      </div> <!-- bg-video -->
+
+    </div> <!-- backgrounds -->
+
+    <div id="ffNbyYA" data-type="content">
+      <div id="YcVHzny">
+        <h2 id="MeuqfIT" contenteditable="true">Loros</h2>
+        <p id="FaYcPkk" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont...</p>
+        <div id="vFeJbPQ">
+          <a id="Ounffqb" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          <a id="wgPJcpI" contenteditable="true" href="https://www">LOREM IPSUM</a>
+        </div> <!-- div2ID -->
+      </div> <!-- div1ID -->
+    </div> <!-- content -->
+  </div> <!-- container -->
+  <button class="toolbar-open" onclick="toolsOpenModal(this);">
+    <img src="../global/file/edit-section.svg">
+  </button>
+</section>
